@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">projekt4urlzestrony</string>
+    <string name="checkbox">com.example.projekt4urlzestrony.checkbox</string>
+    <string name="url_link">com.example.projekt4urlzestrony.url_link</string>
+</resources>
